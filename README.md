@@ -1,5 +1,5 @@
-# Music-Mixer-Checkpoint1
-Authoring Class-Studio Manager
+# JAZZ Music Mixer
+
 
 ## Project Description 
 Interactive Music Mixer (Using SVG, Audio and Events)
@@ -14,12 +14,6 @@ dynamic audio experience, trigger animation, and play a compiled audio track.
 Amr Shoeib
 Laura Albarracin
 
-### Sprint #1:
-
-Github repo with a readme. 
-First Investigation about drag and Drop.
-How to start our project: Let`s do what we know how to do...Design
-Second step: read, attend class and practice with HTML, CSS and JS
 
 ## MIT LICENSE
 
